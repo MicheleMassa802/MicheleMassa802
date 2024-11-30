@@ -20,3 +20,7 @@ I am very passionate about Video Game and Web Development, specially at the Huma
     - JS/TS: React and React Native
     - C++: Cuda
     - Razor Pages
+
+### My Projects:
+
+I'm proud of all of my projects below as they represent a different stage in my career path (out of the ones I am allowed to show). Feel free to check them out below!
