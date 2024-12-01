@@ -14,7 +14,7 @@ I am very passionate about Video Game and Web Development, specially at the Huma
     - C#: Unity and ASP.NET
     - Python: Django and ML models
     - Java: SpringBoot
-    - PSQL
+    - PSQL, MySQL, SQLite
 - Have experience with:
     - GoLang: gRPC APIs
     - JS/TS: React and React Native
