@@ -23,6 +23,6 @@ I am very passionate about Video Game and Web Development, specially at the Huma
 
 ### My Projects:
 
-I'm proud of all of my projects below as they represent a different stage in my career path (out of the ones I am allowed to show). 
+I'm proud of all of my projects below as they represent a different stage in my career path (out of the ones I am allowed to show). If you don't want to go to each repo and instead just watch some of their demos, just go [here](https://www.youtube.com/@michelemassa3029)!
 
 Feel free to check out the full public projects below, and some of my more video-game-oriented ones [on this drive folder](https://drive.google.com/drive/folders/1hNY4nzwiH7-U_DMgfBbk8gdwijGCDmaz?usp=sharing) consisting of the projects I worked on while learning Unity.
