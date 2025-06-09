@@ -1,12 +1,12 @@
 # Hey there 👋, I'm Michele!
 
-I am a Computer Science Specialist about to graduate from the University of Toronto with the Computer Systems and Game Design foci.
+I am a Computer Science Specialist who very recently graduated from the University of Toronto with the Computer Systems and Game Design foci.
 
-I am currently working in VR Research at the DGP Labs, and I have previously worked at Zynga as a Software Engineering Intern, and Ontario Parks as a Backend Intern.
+I am currently working as a Software Engineer I at Zynga (under the Ad Monetization team), and I have previously worked on VR Research at the DGP Lab, at Zynga as a Software Engineering Intern, and at Ontario Parks as a Backend Intern.
 
 ### My Interests!
 
-I am very passionate about Video Game and Web Development, specially at the Human-Computer-Interaction edge, as I strive to make software that makes interaction with a user either more practical or more fun.
+I am very passionate about Video Game and Web Development, especially at the Human-Computer-Interaction edge, as I strive to make software that makes interaction with a user either more practical or more fun.
 
 ### My Weapons of Choice:
 
